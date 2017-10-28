@@ -228,7 +228,6 @@ PRODUCT_COPY_FILES += \
  vendor/umidigi/crystal/proprietary/vendor/lib/libaudiomtkdcremoval.so:system/vendor/lib/libaudiomtkdcremoval.so \
  vendor/umidigi/crystal/proprietary/vendor/lib/libtouchfilter.so:system/vendor/lib/libtouchfilter.so \
  vendor/umidigi/crystal/proprietary/vendor/lib/libdrmmtkwhitelist.so:system/vendor/lib/libdrmmtkwhitelist.so \
- vendor/umidigi/crystal/proprietary/vendor/lib/libdpframework.so:system/vendor/lib/libdpframework.so \
  vendor/umidigi/crystal/proprietary/vendor/lib/libfeatureio.so:system/vendor/lib/libfeatureio.so \
  vendor/umidigi/crystal/proprietary/vendor/lib/libacdk.so:system/vendor/lib/libacdk.so \
  vendor/umidigi/crystal/proprietary/vendor/lib/libem_gpio_jni.so:system/vendor/lib/libem_gpio_jni.so \
@@ -432,7 +431,6 @@ PRODUCT_COPY_FILES += \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libaudiomtkdcremoval.so:system/vendor/lib64/libaudiomtkdcremoval.so \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libtouchfilter.so:system/vendor/lib64/libtouchfilter.so \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libdrmmtkwhitelist.so:system/vendor/lib64/libdrmmtkwhitelist.so \
- vendor/umidigi/crystal/proprietary/vendor/lib64/libdpframework.so:system/vendor/lib64/libdpframework.so \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libfeatureio.so:system/vendor/lib64/libfeatureio.so \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libacdk.so:system/vendor/lib64/libacdk.so \
  vendor/umidigi/crystal/proprietary/vendor/lib64/libem_gpio_jni.so:system/vendor/lib64/libem_gpio_jni.so \
